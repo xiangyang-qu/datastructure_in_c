@@ -1,0 +1,1 @@
+add_executable(arithmetic_sequence_sum arithmetic_sequence_sum.c)
